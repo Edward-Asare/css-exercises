@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd{
+    background-color: #FF7782;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#even-f{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.third{
+    font-size: 24px;
+}
+
+#even-s{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
